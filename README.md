@@ -1,42 +1,66 @@
-# Hi, I'm Ashikur Rahman
+<div align="center">
 
-**Building practical AI tools, knowledge systems, and interactive experiences**  
-Based in Dhaka, Bangladesh
+# Ashikur Rahman
 
----
+**Building grounded AI tools, knowledge systems, and interactive experiences**
 
-### What I work on
+[![GitHub followers](https://img.shields.io/github/followers/ashikbro?style=flat-square&logo=github)](https://github.com/ashikbro)
+[![Profile views](https://komarev.com/ghpvc/?username=ashikbro&style=flat-square)](https://github.com/ashikbro)
 
-I focus on useful software rather than demos:
+Dhaka, Bangladesh · Open to collaboration
 
-- **AI-assisted tools** that stay grounded in real data (no invented experience or facts)
-- **Personal knowledge systems** — notes, links, graphs, and search
-- **Interactive web experiences** and creative technical toys
-- Clean, documented projects with clear scope and privacy considerations
+[Portfolio](https://ashikbro.github.io/ashikbro-portfolio/) · [Projects](#selected-projects)
 
-### Selected projects
-
-| Project | What it is |
-|---------|------------|
-| [knowledgeverse](https://github.com/ashikbro/knowledgeverse) | Local-first typed knowledge graph with search and neighborhood traversal |
-| [second-brain-assistant](https://github.com/ashikbro/second-brain-assistant) | Personal knowledge management — notes, links, search, export |
-| [resume-ai-optimizer](https://github.com/ashikbro/resume-ai-optimizer) | Tailors resumes to job descriptions while preserving factual experience |
-| [ashikbro-portfolio](https://github.com/ashikbro/ashikbro-portfolio) | Portfolio site (HTML/CSS/JS, GitHub Pages) |
-| [AgroMind](https://github.com/ashikbro/AgroMind) | Agriculture-related project |
-| [Fire_Fighting_Humanoid_Robot](https://github.com/ashikbro/Fire_Fighting_Humanoid_Robot) | Robotics project |
-
-### Currently
-
-Working on interactive canvas-based physics experiences and practical AI tooling.  
-Most repos are in foundation stage with transparent status, architecture notes, and roadmaps.
-
-### Tech
-
-Python · JavaScript · HTML/CSS · GitHub Actions · local-first systems · knowledge graphs · AI integrations
+</div>
 
 ---
 
-**Open to** interesting collaborations, feedback, and building useful things in public.
+## About
 
-📍 Dhaka, Bangladesh  
-[Portfolio](https://ashikbro.github.io/ashikbro-portfolio/) · [GitHub](https://github.com/ashikbro)
+I build software that stays useful and honest:
+
+- AI tools that work from real source material (no invented facts or experience)
+- Local-first knowledge systems with clear data ownership
+- Interactive canvas experiences and technical toys
+- Projects with transparent status, architecture notes, and privacy constraints
+
+Most work is currently in foundation stage with working cores, tests where it matters, and explicit roadmaps.
+
+## Selected Projects
+
+| Project | Focus |
+|---------|-------|
+| **[knowledgeverse](https://github.com/ashikbro/knowledgeverse)** | Local-first typed knowledge graph — nodes, relationships, search, neighborhood traversal |
+| **[second-brain-assistant](https://github.com/ashikbro/second-brain-assistant)** | Personal knowledge management: notes, links, deterministic search, export |
+| **[resume-ai-optimizer](https://github.com/ashikbro/resume-ai-optimizer)** | Job-description matching that preserves factual experience only |
+| **[ashikbro-portfolio](https://github.com/ashikbro/ashikbro-portfolio)** | Clean static portfolio (HTML/CSS/JS) |
+| **[evidence-ledger](https://github.com/ashikbro/evidence-ledger)** | Auditable evidence graph for research and AI-assisted decisions |
+| **[AgroMind](https://github.com/ashikbro/AgroMind)** | Agriculture-focused project |
+
+## Current Focus
+
+Interactive canvas-based physics experiences and practical AI tooling that prioritizes provenance and local control.
+
+## Tech
+
+**Languages:** Python · JavaScript · HTML/CSS  
+**Approach:** Local-first systems · Knowledge graphs · Clear scope · Privacy by design  
+**Tools:** GitHub Actions · pytest · GitHub Pages
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikbro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbro&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+**Currently building** useful things in public. Feedback and collaboration welcome.
+
+📍 Dhaka, Bangladesh
